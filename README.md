@@ -1,5 +1,18 @@
 # CRUD - Cadastro de Produtos
 
+# Dicas:
+## para debug
+
+Adicione a extensão: React Developer Tools
+
+## reactstrap
+
+https://reactstrap.github.io/
+
+
+diversos components mais simples de usar
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
